@@ -31,8 +31,15 @@
 </p>
 
 ### How to reach me 📫
+<a href="https://www.linkedin.com/in/parsa-shabanpour-305302233">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&height=100&theme=tokyonight&section=footer"/> 
+</p>
+
+<!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
 
 <!--
 **parsashhub/parsashhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
