@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="45" height="45" />
 </p>
 
-### How to reach me 📫
+<h2>How to reach me 📫</h2>
 <a href="https://www.linkedin.com/in/parsa-shabanpour-305302233">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
