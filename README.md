@@ -5,9 +5,14 @@
 <p>I'm a programmer and web designer with almost 3 years of specialized programming work. Furthermore, web developer with experience and skills in all stages of website development. Full familiarity with the process of UI, responsive design, testing, troubleshooting, building reusable components, etc.
 </p>
 
-![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsashhub&show_icons=true&theme=tokyonight&hide=issues,contribs)
-<br/>  
+<hr />
+
+<div align="center" >
+
+![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsashhub&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&line_height=31&hide=issues,contribs) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsashhub&&theme=tokyonight&layout=compact)
+
+</div>
 
 <h2> Skills </h2>
 <p align="left">
