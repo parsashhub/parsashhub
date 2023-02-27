@@ -1,11 +1,13 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?text=Hi%20there,%20I'm%20Parsa&animation=fadeIn&type=waving&height=100&theme=tokyonight"/> 
+<img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&height=100&theme=tokyonight"/> 
+<!--  text=Hi%20there,%20I'm%20Parsa&  -->
 </p>
-<h2>About me 🚀 </h2>
-<p>I'm a programmer and web designer with almost 3 years of specialized programming work. Furthermore, web developer with experience and skills in all stages of website development. Full familiarity with the process of UI, responsive design, testing, troubleshooting, building reusable components, etc.
-</p>
+<!-- <h2>About me 🚀 </h2>
+<p>
+I'm a programmer and web designer with almost 3 years of specialized programming work. Furthermore, web developer with experience and skills in all stages of website development. Full familiarity with the process of UI, responsive design, testing, troubleshooting, building reusable components, etc.
+</p> -->
 
-<hr />
+<!-- <hr /> -->
 
 <div align="center" >
 
