@@ -7,12 +7,12 @@ I'm a programmer and web designer with almost 3 years of specialized programming
 
 <!-- <hr /> -->
 
-<div align="center" >
+<div>
   
 ![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsashhub&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&line_height=31&hide=issues,contribs) 
 
 </div>
-<div align="center">
+<div>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsashhub&&theme=tokyonight&layout=compact)
   
