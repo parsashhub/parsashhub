@@ -7,7 +7,7 @@ I'm a programmer and web designer with almost 3 years of specialized programming
 
 <!-- <hr /> -->
 
-<div>
+<!-- <div>
   
 ![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=parsashhub&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&line_height=31&hide=issues,contribs) 
 
@@ -21,7 +21,7 @@ I'm a programmer and web designer with almost 3 years of specialized programming
 <h2> Skills </h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,nodejs,git,gitlab" />
-</p>
+</p> -->
 
 <h2>How to reach me 📫</h2>
 <a href="https://www.linkedin.com/in/parsa-shabanpour-305302233">
