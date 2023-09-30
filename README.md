@@ -24,9 +24,6 @@ I'm a programmer and web designer with almost 3 years of specialized programming
 </p> -->
 
 <h2>How to reach me 📫</h2>
-<a href="https://www.linkedin.com/in/parsa-shabanpour-305302233">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="120px" />
-</a>
 <a href="https://t.me/ParsaShabanpour">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" width="120px" />
 </a>
