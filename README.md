@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&height=100&theme=tokyonight"/> 
 <h2>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
