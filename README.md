@@ -4,6 +4,13 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
+
+
+<h2>stats 🔥</h2>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=parsashhub&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsashhub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>How to reach me 📫</h2>
 <a href="https://t.me/ParsaShabanpour">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" width="120px" />
